@@ -1,10 +1,10 @@
-# 👋 Hola, soy Juan Daniel Valbuena Tapias
+# 👋 Hola, soy Juan Valbuena
 
-### 💻 Full Stack Developer | Especialista en .NET & Cloud | Apasionado por crear soluciones con impacto real
+### 💻 Full Stack Developer | Especialista en .NET & Cloud | Middle .NET Software Developer | Scrum | Amazon Web Services (AWS)
 
 ---
 
-🎓 Estudiante de Ingeniería en Sistemas (ITM - 8° semestre) con más de **3 años de experiencia** desarrollando software y liderando funcionalidades en productos digitales.
+🎓 Ingeniero en Sistemas con más de **3 años de experiencia** desarrollando software y liderando funcionalidades en productos digitales.
 
 🚀 Actualmente trabajo como Desarrollador en el área de I+D+I en **Treda Solutions**, creando soluciones innovadoras, escalables y alineadas con la estrategia de negocio.
 
@@ -16,7 +16,7 @@
 `C#` · `JavaScript` · `Python` · `PHP` · `HTML` · `CSS` · `ASP.NET` · `Entity Framework` · `Razor`
 
 **Cloud y DevOps:**  
-`AWS` · `Azure` · `Docker` · `SQS` · `Lambda` · `CI/CD` · `GitHub Actions`
+`AWS` · `Azure` · `Docker` · `SQS` · `Lambda` · `CI/CD`
 
 **Bases de datos:**  
 `SQL Server` · `MySQL` · `MongoDB`
@@ -38,9 +38,12 @@
 
 ## 📜 Certificaciones
 
+- ✅ AWS Certified Cloud Practitioner – *Amazon Web Services Training and Certification*
 - ✅ Scrum Web Developer – *International Scrum Institute*
 - ✅ AWS Cloud Practitioner Essentials – *Nectec*
+- ✅ Unit Testing for Automation Consultants – *Moodle*
 - ✅ Ethical Hacking | Red Team – *Hacker Mentor*
+- ✅ Software Development Fundamentals *Microsoft and LinkedIn*
 
 ---
 
@@ -51,7 +54,6 @@ Estoy abierto a colaborar en proyectos, participar en equipos de desarrollo remo
 📫 **Contáctame**:
 - Email: [daniicroom@gmail.com](mailto:daniicroom@gmail.com)
 - LinkedIn: [linkedin.com/in/daniicroom](https://www.linkedin.com/in/daniicroom)
-- GitHub: [github.com/Daniicroom](https://github.com/Daniicroom)
 
 ---
 
