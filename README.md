@@ -53,7 +53,7 @@ Estoy abierto a colaborar en proyectos, participar en equipos de desarrollo remo
 
 📫 **Contáctame**:
 - Email: [daniicroom@gmail.com](mailto:daniicroom@gmail.com)
-- LinkedIn: [linkedin.com/in/daniicroom](https://www.linkedin.com/in/daniicroom)
+- LinkedIn: [linkedin.com/in/daniicroom](https://www.linkedin.com/in/daniel-valbuena-295916b1/)
 
 ---
 
