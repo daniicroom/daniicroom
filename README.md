@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Valbuena
 
-### 💻 Full Stack Developer | Especialista en .NET & Cloud | Middle .NET Software Developer | Scrum | Amazon Web Services (AWS)
+### 💻 Full Stack Developer | .NET & Cloud Specialist | Middle .NET Software Developer | Scrum | Amazon Web Services (AWS)
 
 ---
 
