@@ -1,42 +1,42 @@
-# 👋 Hola, soy Juan Valbuena
+# 👋 Hi, I'm Juan Valbuena
 
 ### 💻 Full Stack Developer | .NET & Cloud Specialist | Middle .NET Software Developer | Scrum | Amazon Web Services (AWS)
 
 ---
 
-🎓 Ingeniero en Sistemas con más de **3 años de experiencia** desarrollando software y liderando funcionalidades en productos digitales.
+🎓 Systems Engineer with more than 3 years of experience developing software and leading features in digital products.
 
-🚀 Actualmente trabajo como Desarrollador en el área de I+D+I en **Treda Solutions**, creando soluciones innovadoras, escalables y alineadas con la estrategia de negocio.
+🚀 I currently work as a Developer in the R&D&I department at **Treda Solutions**, creating innovative, scalable solutions aligned with business strategy.
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Technologies & Tools
 
-**Lenguajes y frameworks:**  
+**Languages and frameworks:**  
 `C#` · `JavaScript` · `Python` · `PHP` · `HTML` · `CSS` · `ASP.NET` · `Entity Framework` · `Razor`
 
 **Cloud y DevOps:**  
 `AWS` · `Azure` · `Docker` · `SQS` · `Lambda` · `CI/CD`
 
-**Bases de datos:**  
+**Databases:**  
 `SQL Server` · `MySQL` · `MongoDB`
 
-**Otros:**  
+**Others:**  
 `Postman` · `REST / SOAP APIs` · `JWT` · `Microservicios` · `Sourcetree` · `Rocketbot`
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Featured Projects
 
-🔗 Portafolio completo: [https://portafolio-mfbf.vercel.app](https://portafolio-mfbf.vercel.app)
+🔗 Full portfolio: [https://portafolio-mfbf.vercel.app](https://portafolio-mfbf.vercel.app)
 
-- 🔧 **Desarrollo de productos propios** en Treda Solutions
-- 📱 **Integración de servicios cloud y APIs**
-- ⚙️ Automatización de procesos con cron jobs, microservicios y lógica distribuida
+- 🔧 **Development of proprietary products** at Treda Solutions
+- 📱 **Integration of cloud services and APIs**
+- ⚙️ Process automation using cron jobs, microservices and distributed logic
 
 ---
 
-## 📜 Certificaciones
+## 📜 Certifications
 
 - ✅ AWS Certified Cloud Practitioner – *Amazon Web Services Training and Certification*
 - ✅ Scrum Web Developer – *International Scrum Institute*
@@ -47,9 +47,9 @@
 
 ---
 
-## 🤝 ¿Te gustaría trabajar conmigo?
+## 🤝 Would you like to work with me?
 
-Estoy abierto a colaborar en proyectos, participar en equipos de desarrollo remoto o contribuir a iniciativas de código abierto.
+I'm open to collaborating on projects, joining remote development teams, or contributing to open-source initiatives.
 
 📫 **Contáctame**:
 - Email: [daniicroom@gmail.com](mailto:daniicroom@gmail.com)
@@ -57,4 +57,4 @@ Estoy abierto a colaborar en proyectos, participar en equipos de desarrollo remo
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+Thanks for visiting my profile! 😊
