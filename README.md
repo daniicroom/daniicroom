@@ -4,7 +4,7 @@
 
 ---
 
-🎓 Systems Engineer with more than 3 years of experience developing software and leading features in digital products.
+🎓 Systems Engineer with more than 4 years of experience developing software and leading features in digital products.
 
 🚀 I currently work as a Developer in the R&D&I department at **Treda Solutions**, creating innovative, scalable solutions aligned with business strategy.
 
